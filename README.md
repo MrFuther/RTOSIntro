@@ -1,6 +1,6 @@
 # RTOSIntro
 
-RTOS Introduction with gatTask, pickButton, ctrlLED, dispSerial
+RTOS Introduction with pickButtonTask, getADCTask, dispUARTTask, and ctrlLEDTask
 
 ![RTOS Task Diagram](Task_Diagram.jpg)
 
