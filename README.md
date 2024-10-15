@@ -62,3 +62,6 @@ Dalam kode yang kamu berikan, terdapat lima *task* yang dibuat dengan prioritas 
 Dalam hal ini, RTOS memastikan bahwa tugas penting seperti pembacaan ADC (`getADCTask`) selalu diproses lebih dulu, sementara tugas pemantauan tombol atau *default task* diproses ketika sistem memiliki kapasitas yang lebih rendah.
 
 Ini adalah cara RTOS memberikan respons real-time yang cepat untuk tugas-tugas prioritas tinggi tanpa menghentikan tugas prioritas lebih rendah yang kurang penting.
+
+Demontration :
+![RTOS Demontrasion](Demonstration.gif)
